@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Introducing V-Gen!"
+date:   2024-11-07 01:47:43 -0500
+categories: Product
+---
+V-Gen is a video generation platform powered by OpenAI and FFMPEG. It can be used to generate short-form content such as ads. <br>
+More details coming soon...
